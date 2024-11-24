@@ -2,6 +2,8 @@
 
 Dynamic Theme Context is a lightweight library designed to handle dynamic theming for **React Native** projects. This library allows developers to manage multiple themes effortlessly.
 
+![logo](https://media.licdn.com/dms/image/v2/D4D12AQHUtXuvPnlFOg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1732436365222?e=1738195200&v=beta&t=f3dk2S6jz-eEv0OJRgLprE99tONmJT-yevOR5DSOFbs)
+
 ---
 
 ## Features
